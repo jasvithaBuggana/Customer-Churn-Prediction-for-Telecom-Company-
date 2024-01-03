@@ -1,4 +1,4 @@
-## Customer-Churn-Prediction-for-Telecom-Company- Data Mining Project
+## Customer Churn Prediction for Telecom Company- Data Mining Project
 
 ## Overview
 

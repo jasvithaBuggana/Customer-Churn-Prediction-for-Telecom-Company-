@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the implementation of diverse classification predictive models for predicting phone service customer churn in a telecommunications business. The implemented models include K-NN (K-Nearest Neighbors), Decision Tree, Random Forest, and Logistic Regression. The project achieved a notable validation accuracy of 95%.
+This project contains the implementation of diverse classification predictive models for predicting phone service customer churn in a telecommunications business. The implemented models include K-NN (K-Nearest Neighbors), Decision Tree, Random Forest, and Logistic Regression. The project achieved a notable validation accuracy of 95%.
 
 ## Project Components
 

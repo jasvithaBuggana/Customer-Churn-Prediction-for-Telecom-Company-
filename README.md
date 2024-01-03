@@ -8,7 +8,7 @@ This repository contains the implementation of diverse classification predictive
 
 ### 1. Code
 
-The Python code for the implemented predictive models is available in the repository. The models are designed to predict customer churn based on relevant features in the dataset.
+The Python code for the implemented predictive models is available in the 'code' repository. The models are designed to predict customer churn based on relevant features in the dataset.
 
 ### 2. Dataset
 
